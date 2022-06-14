@@ -1,2 +1,3 @@
 # Lecture-and-mini-projects
-Some lecture materials and mini projects assigned to students. 
+Some lecture materials, mini projects and assignments. 
+TOPIC: Machine Learning
